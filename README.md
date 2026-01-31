@@ -1,1 +1,4 @@
-Edited on GitHub web interface
+# Project Title
+# How to set up the virtual environment
+# How to run Python scripts
+#Run Instructions
